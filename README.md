@@ -1,5 +1,5 @@
 # IT_Companies
-       Course project on XML Technologies for the Semantic Web 2022/2023, Faculty of Mathematics and Informatics.
+               Course project on XML Technologies for the Semantic Web 2022/2023, Faculty of Mathematics and Informatics.
               
    TASK: Catalogue of IT companies
    
